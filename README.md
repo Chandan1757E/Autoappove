@@ -1,1 +1,1 @@
-# Techno Beat's AutoAppove
+# Techno Beat's AutoAppove bot
